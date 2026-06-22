@@ -1,0 +1,6 @@
+{
+  "name": "Precision Plumbing Sydney NSW",
+  "description": "Premium 24/7 emergency plumbing website for Precision Plumbing in Sydney, NSW, featuring an interactive AI plumbing assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
